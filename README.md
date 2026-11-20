@@ -65,3 +65,7 @@ src/
 ## Technologie
 
 React 19 · Three.js · @react-three/fiber · @react-three/drei · Vite
+
+## Licencja
+
+[MIT](LICENSE)
